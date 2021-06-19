@@ -1,1 +1,1 @@
-# vinhoverde
+Aims to predict the quality of the Vinho Verde red wine using machine learning and exploratory data analysis. Has some visualizations , linear regression, correlation as well as algorithms such as Random Forest to train and test the model. Developed a form in HTML and CSS to take inputs and display quality of wine. (Train-test ratio is 80-20)
